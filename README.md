@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Cartoonito-Logo-02.png " group-title="INFANTIL ",CARTOONITO
  http://190.102.43.113:80/Formigatv/offilinetv1715/1541834.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/21/15/vbYb7Xkr_o.png " group-title="INFANTIL",DESCOBERTA KIDS
+#EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/21/15/vbYb7Xkr_o.png " group-title="INFANTIL",DISCOVERY KIDS
  http://190.102. 43.113:80/Formigatv/offinetv1715/1541839.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/8b/69/3e4xuEij_o.png " group-title="INFANTIL",DISNEY
