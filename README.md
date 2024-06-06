@@ -55,13 +55,13 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/e8/ad/XwfImJZy_o.png " group-title="CANAIS HBO",HBO POP
  http://190.102 .43.113:80/Formigatv/offinetv1715/1542370.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/33/3e/0IDs4wcG_o.png " group-title="CANAIS HBO",HBO ASSINATURA
+#EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/33/3e/0IDs4wcG_o.png " group-title="CANAIS HBO",HBO SIGNATURE
  http://190.102 .43.113:80/Formigatv/offinetv1715/1542375.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" https://images2.imgbox.com/09/90/O7jlBA1I_o.png " group-title="CANAIS HBO",MAXPRIME
  http://190.102. 43.113:80/Formigatv/offinetv1715/1542380.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width- down/300?cb=20160228233323 " group-title="CANAIS TELECINE",TELECINE AÇÃO
+#EXTINF:-1 tvg-id="" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width- down/300?cb=20160228233323 " group-title="CANAIS TELECINE",TELECINE ACTION
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542459.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png " group-title="CANAIS TELECINE",TELECINE CULT
@@ -79,7 +79,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f4/TC_Touch.png/revision/latest/scale-to-width- down/200?cb=20160228233324 " group-title="CANAIS TELECINE",TELECINE TOUCH
  http://190.102.43.113:80/Formigatv/offilinetv1715/320584.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AMC.png " group-title="✔️ FILMES E SÉRIES",AMC BRASIL
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AMC.png " group-title="✔️ FILMES E SÉRIES",AMC BRAZIL
  http://190.102.43.113:80/Formigatv/offilinetv1715/8796.m3u8
 
 #EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AXN.png " group-title="✔️ FILMES E SÉRIES",AXN 
@@ -91,7 +91,7 @@
 #EXTINF:-1 tvg-id="MAX" tvg-name="CINEMAX FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png " group-title="✔️ FILMES E SÉRIES",CINEMAX 
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542115.m3u8
 
-#EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png " group-title="✔️ FILMES E SÉRIES",CENTRAL DE COMÉDIA 
+#EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png " group-title="✔️ FILMES E SÉRIES",COMDEDY CENTRAL
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542120.m3u8
 
 #EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/FX.png " group-title="✔️ FILMES E SÉRIES",FX 
@@ -103,13 +103,13 @@
 #EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png " group-title="✔️ FILMES E SÉRIES",MEGAPIX 
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542134.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png " group-title="✔️ FILMES E SÉRIES", REDE PARAMAIS
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png " group-title="✔️ FILMES E SÉRIES", REDE PARAMOUNT
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542139.m3u8
 
-#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png " group-title="✔️ FILMES E SÉRIES",ESPAÇO 
+#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png " group-title="✔️ FILMES E SÉRIES",SPACE
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542144.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo=" https://prostore.app/logos/starchannel.png " group-title="✔️ FILMES E SÉRIES", CANAL FOX
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo=" https://prostore.app/logos/starchannel.png " group-title="✔️ FILMES E SÉRIES",FOX CHANNEL
  http://190.102.43.113:80/Formigatv/offilinetv1715/1542149.m3u8
 
 #EXTINF:-1 tvg-id="CCANAL" tvg-name="CINECANAL FHD" tvg-logo=" https://images2.imgbox.com/ae/96/QWqofVz9_o.png " group-title="✔️ FILMES E SÉRIES",CINECANAL
