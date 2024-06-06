@@ -79,7 +79,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f4/TC_Touch.png/revision/latest/scale-to-width- down/200?cb=20160228233324 " group-title="CANAIS TELECINE",TELECINE TOUCH
  http://190.102.43.113:80/Formigatv/offilinetv1715/320584.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AMC.png " group-title="✔️ FILMES E SÉRIES",AMC BRAZIL
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AMC.png " group-title="✔️ FILMES E SÉRIES",AMC BRASIL
  http://190.102.43.113:80/Formigatv/offilinetv1715/8796.m3u8
 
 #EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN FHD" tvg-logo=" http://logo.trendhd.xyz/images/Filmes_Series/AXN.png " group-title="✔️ FILMES E SÉRIES",AXN 
