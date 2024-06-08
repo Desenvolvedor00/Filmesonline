@@ -97,7 +97,7 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1542115.m3u8
 #EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL 
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542120.m3u8
 
-#EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX 
+#EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX 
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542125.m3u8
 
 #EXTINF:-1 tvg-id="LIFELAH" tvg-name="LIFETIME FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="✔️ FILMES E SÉRIES",LIFETIME BRAZIL
