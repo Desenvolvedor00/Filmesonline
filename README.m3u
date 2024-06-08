@@ -610,3 +610,49 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1541624.m3u8
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541625.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H DESENHOS BIBLICOS" tvg-logo="https://img.imageboss.me/ntplay/width/1366/format:jpg,animation:true/watermark/271625_149186.png" group-title="✔️ CANAIS 24HS",24H DESENHOS BIBLICOS
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541626.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/BIS.png" group-title="✔️ VARIADOS",BIS HD
+
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA! HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/CURTA.png" group-title="✔️ VARIADOS",CURTA! HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541978.m3u8
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/E.png" group-title="✔️ VARIADOS",E! HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541982.m3u8
+
+#EXTINF:-1 tvg-id="FOODIT" tvg-name="FOOD NETWORK HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/FOOD.png" group-title="✔️ VARIADOS",FOOD NETWORK HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541986.m3u8
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/GNT.png" group-title="✔️ VARIADOS",GNT HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541990.m3u8
+
+#EXTINF:-1 tvg-id="HGTVLA" tvg-name="HGTV HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/HG.png" group-title="✔️ VARIADOS",HGTV HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541994.m3u8
+
+#EXTINF:-1 tvg-id="MTVLAHE" tvg-name="MTV HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/MTV.png" group-title="✔️ VARIADOS",MTV HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1541998.m3u8
+
+#EXTINF:-1 tvg-id="MSW" tvg-name="MULTISHOW HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="✔️ VARIADOS",MULTISHOW HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542002.m3u8
+
+#EXTINF:-1 tvg-id="MUSBXBH" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://images2.imgbox.com/63/d1/HImntNSq_o.png" group-title="✔️ VARIADOS",MUSIC BOX BRAZIL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542006.m3u8
+
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/OFF.png" group-title="✔️ VARIADOS",OFF HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542010.m3u8
+
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="POLISHOP SD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="✔️ VARIADOS",POLISHOP SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542012.m3u8
+
+#EXTINF:-1 tvg-id="PRMBOXB" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/PRIME.png" group-title="✔️ VARIADOS",PRIME BOX BRAZIL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542015.m3u8
+
+#EXTINF:-1 tvg-id="VH1MGAH" tvg-name="VH1 MEGAHITS SD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/VH1.png" group-title="✔️ VARIADOS",VH1 MEGAHITS SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542017.m3u8
+
+#EXTINF:-1 tvg-id="VIVABR" tvg-name="VIVA HD" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/VIVA.png" group-title="✔️ VARIADOS",VIVA HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542020.m3u8
+
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://i.imgur.com/iCHoGbv.png" group-title="✔️ VARIADOS",TRACE BRAZUCA HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542024.m3u8
+#EXTINF:-1 tvg-id="TRAVBR" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://images2.imgbox.com/5e/6c/E51c1T3H_o.png" group-title="✔️ VARIADOS",TRAVEL BOX BRAZIL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542025.m3u8
